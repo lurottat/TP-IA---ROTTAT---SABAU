@@ -1,0 +1,5 @@
+Est-ce que ton personnage est une femme ? 
+Est-ce que ton personnage est décédé ?
+Est-ce que ton personnage drole ?
+Est-ce que ton personnage est francais ?
+Est-ce que ton personnage est américain ?
